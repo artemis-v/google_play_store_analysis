@@ -1,5 +1,5 @@
-## google_play_store_analysis
-# Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly
+# google_play_store_analysis
+## Wrestle the Android App Store Data into Beautiful Looking Charts with Plotly
 I analyze thousands of apps in the Google Play Store to get insight into:
   1. How competitive different app categories (e.g., Games, Lifestyle, Weather) are
   2. Which app category offers compelling opportunities based on its popularity
